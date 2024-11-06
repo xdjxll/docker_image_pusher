@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 acosix/alfresco-share-6.0.7-ga-openjdk:latest
+docker pull oilrmutp57/mysql5.7
